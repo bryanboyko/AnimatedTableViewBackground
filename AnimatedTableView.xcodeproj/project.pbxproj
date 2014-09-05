@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		1923AF5319A65D890029CE39 /* BBAnimatedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1923AF5219A65D890029CE39 /* BBAnimatedViewController.m */; };
+		1926D5AE19B8DD3F006C7024 /* buttermilks.png in Resources */ = {isa = PBXBuildFile; fileRef = 1926D5AC19B8DD3F006C7024 /* buttermilks.png */; };
+		1926D5AF19B8DD3F006C7024 /* buttermilks@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1926D5AD19B8DD3F006C7024 /* buttermilks@2x.png */; };
 		1987953819A6547A00A9FDA0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1987953719A6547A00A9FDA0 /* Foundation.framework */; };
 		1987953A19A6547A00A9FDA0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1987953919A6547A00A9FDA0 /* CoreGraphics.framework */; };
 		1987953C19A6547A00A9FDA0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1987953B19A6547A00A9FDA0 /* UIKit.framework */; };
@@ -40,6 +42,8 @@
 /* Begin PBXFileReference section */
 		1923AF5119A65D890029CE39 /* BBAnimatedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBAnimatedViewController.h; sourceTree = "<group>"; };
 		1923AF5219A65D890029CE39 /* BBAnimatedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBAnimatedViewController.m; sourceTree = "<group>"; };
+		1926D5AC19B8DD3F006C7024 /* buttermilks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttermilks.png; sourceTree = "<group>"; };
+		1926D5AD19B8DD3F006C7024 /* buttermilks@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "buttermilks@2x.png"; sourceTree = "<group>"; };
 		1987953419A6547A00A9FDA0 /* AnimatedTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatedTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1987953719A6547A00A9FDA0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1987953919A6547A00A9FDA0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -121,6 +125,8 @@
 		1987953D19A6547A00A9FDA0 /* AnimatedTableView */ = {
 			isa = PBXGroup;
 			children = (
+				1926D5AC19B8DD3F006C7024 /* buttermilks.png */,
+				1926D5AD19B8DD3F006C7024 /* buttermilks@2x.png */,
 				19F0E7D519ABEE0B0069BE11 /* PalmTreeLong.png */,
 				19F0E7D619ABEE0B0069BE11 /* PalmTreeLong@2x.png */,
 				19F0E7CD19ABE8960069BE11 /* IceBlocksBackgroundLong.png */,
@@ -247,7 +253,9 @@
 				19F0E7D019ABE8960069BE11 /* IceBlocksBackgroundLong@2x.png in Resources */,
 				1987954219A6547A00A9FDA0 /* InfoPlist.strings in Resources */,
 				19F0E7CF19ABE8960069BE11 /* IceBlocksBackgroundLong.png in Resources */,
+				1926D5AE19B8DD3F006C7024 /* buttermilks.png in Resources */,
 				1987954A19A6547A00A9FDA0 /* Images.xcassets in Resources */,
+				1926D5AF19B8DD3F006C7024 /* buttermilks@2x.png in Resources */,
 				19F0E7D819ABEE0B0069BE11 /* PalmTreeLong@2x.png in Resources */,
 				19F0E7D719ABEE0B0069BE11 /* PalmTreeLong.png in Resources */,
 			);

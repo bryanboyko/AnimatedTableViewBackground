@@ -28,7 +28,7 @@
     
     // add background view that will move underneath the tableview
     self.backgroundView = [[UIView alloc] initWithFrame:CGRectMake(0, -150, 320, 620)];
-    self.backgroundView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"PalmTreeLong"]];
+    self.backgroundView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"buttermilks"]];
     self.view.bounds = CGRectMake(0, -100, 320, 620);
     [self.view addSubview:self.backgroundView];
 
